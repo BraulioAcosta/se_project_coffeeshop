@@ -32,7 +32,7 @@
 }
 
 .header__paragraph {
-  margin: 0px;
+  margin: 0;
 }
 
 .header__image {
@@ -41,6 +41,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: auto;
 }
 
 .header__description {
