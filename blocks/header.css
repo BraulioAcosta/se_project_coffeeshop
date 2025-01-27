@@ -29,6 +29,7 @@
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
+  z-index: 1;
 }
 
 .header__paragraph {
@@ -41,7 +42,6 @@
   right: 5px;
   width: 646px;
   height: 568px;
-  z-index: auto;
 }
 
 .header__description {
@@ -53,6 +53,7 @@
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
+  z-index: 1;
 }
 
 .header__footer {
